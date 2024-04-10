@@ -19,5 +19,5 @@
 [![Vuejs](https://img.shields.io/badge/vuejs-green?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)(https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
