@@ -7,7 +7,7 @@
 ## About me 
 
 - 🎓 Systems engineer with postgraduate degree in software development
-- 👨‍💻 Frontend engineer
+- 👨‍💻 Web and mobile Frontend Engineer
 - 🔭 I’m currently working on Wompi
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: linkedin https://www.linkedin.com/in/andiirc/
