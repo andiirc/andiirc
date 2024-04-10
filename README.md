@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: linkedin https://www.linkedin.com/in/andiirc/
 - ⚡ Fun fact: I like to play the guitar 🎸 and playing football ⚽
-- 👨‍💻 frontend engineer
 
 ## knowledge
 
